@@ -1,0 +1,20 @@
+exemplos de nomenclatura de packages:
+org.serratec.model
+org.serratec.view
+
+classes/interfaces: (PascalCase e substantivo)
+Usuario
+ContaCorrente
+
+metodos: (camelCase e verbo)
+imprimirValor
+executar
+calcularMedia
+
+variáveis: (camelCase e mais significativas possível)
+nome
+nota
+mediaAluno
+
+constantes:
+ESCREVA_ASSIM
