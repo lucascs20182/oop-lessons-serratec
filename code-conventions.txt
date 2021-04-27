@@ -1,3 +1,7 @@
+https://www.oracle.com/java/technologies/javase/codeconventions-introduction.html
+
+
+
 exemplos de nomenclatura de packages:
 org.serratec.model
 org.serratec.view
