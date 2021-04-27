@@ -1,0 +1,13 @@
+package exercicios;
+
+public class Casting {
+
+	public static void main(String[] args) {
+		double valor1 = 14.52;
+		float valor2 = 12.1f;
+		
+		int soma = int(valor1 + double(valor2));
+
+	}
+
+}

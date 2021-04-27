@@ -1,0 +1,20 @@
+package exercicios;
+
+public class SituacaoAluno {
+
+	public static void main(String[] args) {
+		double nota1 = 10;
+		double nota2 = 10;
+		double media = (nota1 + nota2) / 2;
+		String resultado = "";
+		
+		resultado = media >= 7 ? "Aprovado" : "Reprovado";
+		
+		if(media == 10) {
+			resultado += "Parabéns";
+		}
+		
+		System.out.println(resultado);
+	}
+
+}
