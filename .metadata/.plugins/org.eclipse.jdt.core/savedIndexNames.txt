@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Residencia Note 13\Downloads\oop-lessons-serratec\.metadata\.plugins\org.eclipse.jdt.core
+100692314.index
+163958586.index
+3121421190.index
