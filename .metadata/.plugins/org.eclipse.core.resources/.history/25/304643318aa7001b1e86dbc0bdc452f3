@@ -1,0 +1,10 @@
+package exercicios;
+
+import javax.swing.JOptionPane;
+
+public class InputJOptionPane {
+
+	public static void main(String[] args) {
+		JOptionPane.showInputDialog("Qual é o seu nome?");
+	}
+}

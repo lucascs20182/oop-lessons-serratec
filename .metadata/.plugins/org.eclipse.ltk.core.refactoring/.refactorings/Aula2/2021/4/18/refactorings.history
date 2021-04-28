@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;exercicios.ParesEImpares&apos; to &apos;ParesEImparesEOutrasCoisasMais&apos;&#x0D;&#x0A;- Original project: &apos;Aula2&apos;&#x0D;&#x0A;- Original element: &apos;exercicios.ParesEImpares&apos;&#x0D;&#x0A;- Renamed element: &apos;exercicios.ParesEImparesEOutrasCoisasMais&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ParesEImpares&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;exercicios{ParesEImpares.java[ParesEImpares" matchStrategy="1" name="ParesEImparesEOutrasCoisasMais" qualified="false" references="true" similarDeclarations="false" stamp="1619540297548" textual="false" version="1.0"/>
+</session>
