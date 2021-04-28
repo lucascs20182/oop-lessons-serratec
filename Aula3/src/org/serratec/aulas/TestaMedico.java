@@ -14,9 +14,6 @@ public class TestaMedico {
 		medicos[0] = medico1;
 		medicos[1] = medico2;
 		
-		medico1.imprimeMedico();
-		medico2.imprimeMedico();
-		
 		for(int i = 0; i < Medico.getTotalMedicos(); i++) {
 			System.out.println("\n" + medicos[i].imprimeMedico());
 		}
