@@ -22,10 +22,10 @@ public class Funcionario {
 	}
 
 	public String getNome() {
-		return nome;
+		return this.nome;
 	}
 
 	public double getSalario() {
-		return salario;
+		return this.salario;
 	}
 }
