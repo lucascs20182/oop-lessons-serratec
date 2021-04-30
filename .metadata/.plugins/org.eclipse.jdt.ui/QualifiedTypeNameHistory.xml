@@ -3,4 +3,7 @@
     <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
     <fullyQualifiedTypeName name="java.time.Month"/>
     <fullyQualifiedTypeName name="java.time.DayOfWeek"/>
+    <fullyQualifiedTypeName name="org.serratec.classes.PessoaFisica"/>
+    <fullyQualifiedTypeName name="org.serratec.classes.PessoaJuridica"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
 </qualifiedTypeNameHistroy>
