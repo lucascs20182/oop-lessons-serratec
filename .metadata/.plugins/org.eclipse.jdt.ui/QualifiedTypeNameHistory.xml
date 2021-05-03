@@ -6,4 +6,7 @@
     <fullyQualifiedTypeName name="org.serratec.classes.PessoaFisica"/>
     <fullyQualifiedTypeName name="org.serratec.classes.PessoaJuridica"/>
     <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="org.serratec.endereco.Endereco"/>
+    <fullyQualifiedTypeName name="org.serratec.exercicio1.Clinica"/>
+    <fullyQualifiedTypeName name="org.serratec.exercicio1.ControlePagamento"/>
 </qualifiedTypeNameHistroy>
