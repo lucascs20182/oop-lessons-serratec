@@ -13,6 +13,6 @@ public class TesteOficina {
 		
 		System.out.println("\nProprietario: " + proprietario.getNome() + "\nCarro: " + carro.getModelo()
 				+ "\nCategoria: " + carro.getCategoria() + "\nValor cobrado pelo serviço: "
-				+ Veiculo.valorCobrado);
+				+ carro.valorCobrado);
 	}
 }

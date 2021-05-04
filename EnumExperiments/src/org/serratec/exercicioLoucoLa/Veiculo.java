@@ -4,7 +4,7 @@ import java.time.LocalDate;
 
 public abstract class Veiculo implements Oficina {
 	protected String modelo;
-	protected static double valorCobrado;
+	protected double valorCobrado;
 	protected LocalDate dataConserto;
 	protected Proprietario proprietario;
 	
@@ -20,7 +20,7 @@ public abstract class Veiculo implements Oficina {
 		return "Veiculo [modelo=" + modelo + ", valorCobrado=" + valorCobrado + ", dataConserto=" + dataConserto + "]";
 	}
 	
-	public static double getValorCobrado() {
+	public double getValorCobrado() {
 		return valorCobrado;
 	}
 
