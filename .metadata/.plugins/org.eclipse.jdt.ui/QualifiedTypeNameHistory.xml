@@ -2,11 +2,14 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
     <fullyQualifiedTypeName name="java.time.Month"/>
-    <fullyQualifiedTypeName name="java.time.DayOfWeek"/>
     <fullyQualifiedTypeName name="org.serratec.classes.PessoaFisica"/>
     <fullyQualifiedTypeName name="org.serratec.classes.PessoaJuridica"/>
-    <fullyQualifiedTypeName name="java.time.LocalDate"/>
     <fullyQualifiedTypeName name="org.serratec.endereco.Endereco"/>
     <fullyQualifiedTypeName name="org.serratec.exercicio1.Clinica"/>
     <fullyQualifiedTypeName name="org.serratec.exercicio1.ControlePagamento"/>
+    <fullyQualifiedTypeName name="org.serratec.classes.Pedido"/>
+    <fullyQualifiedTypeName name="org.serratec.enums.Sanduiches"/>
+    <fullyQualifiedTypeName name="org.serratec.enums.Bebidas"/>
+    <fullyQualifiedTypeName name="java.time.DayOfWeek"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
 </qualifiedTypeNameHistroy>
